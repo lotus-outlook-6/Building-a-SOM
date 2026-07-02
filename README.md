@@ -1,7 +1,5 @@
 # Building-a-SOM
 
----
-
 ## Installation
 1. Create and activate a virtual environment:
    - python -m venv venv
